@@ -42,3 +42,7 @@ MillionVerifier offers the fastest real time API on the market.
 5 - disposable
 
 6 - invalid
+
+
+## Check your credits via API
+You can check your credits using https://api.millionverifier.com/api/v3/credits?api=API_KEY
